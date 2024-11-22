@@ -8,6 +8,7 @@
 # 3. Test Code
 
 user_input =int(input("Enter your number: "))
+print("Printing the Table")
 
 print(f"{user_input}*1={user_input*1}")
 print(f"{user_input}*2={user_input*2}")
