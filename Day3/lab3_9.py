@@ -1,0 +1,10 @@
+set={1,2,3,3,5}
+print(set)
+print(type(set))
+bilal="""nksdndkfdndkdfnfdkd
+dsfdfds
+fdfdd
+sdsdffd
+dsf
+ff"""
+print(bilal)
